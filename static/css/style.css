@@ -1,0 +1,11 @@
+.navbar {
+    background: #0F6292;
+}
+
+.offcanvas {
+    background: #0F6292 !important;
+}
+
+.nav-item a {
+    font-size: 18px;
+}
